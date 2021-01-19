@@ -109,7 +109,7 @@ article p
 .gras{
 	font-weight:bold;
 	display:inline;
-	font-size: 1em;
+	font-size:1em;
 }
 
 a:hover {
@@ -121,5 +121,5 @@ a:hover {
 }
 
 p{
-	display:inline;	
+	display:inline;
 }
