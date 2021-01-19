@@ -119,3 +119,7 @@ a:hover {
 .taille{
 	font-size: 1.5em;
 }
+
+p{
+	display:inline;	
+}
