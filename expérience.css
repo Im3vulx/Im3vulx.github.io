@@ -99,7 +99,7 @@ article p
 	font-weight:bold;
 	display:inline;
 	text-decoration: underline;
-	font-size: 0.5em;
+	font-size: 1em;
 }
 
 #a1:hover {
@@ -109,7 +109,7 @@ article p
 .gras{
 	font-weight:bold;
 	display:inline;
-	font-size:0.5em;
+	font-size: 1em;
 }
 
 a:hover {
@@ -117,7 +117,7 @@ a:hover {
 }
 
 .taille{
-	font-size: 0.5em;
+	font-size: 1em;
 }
 
 p{
