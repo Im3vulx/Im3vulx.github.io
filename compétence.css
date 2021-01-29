@@ -81,7 +81,7 @@ article
 
 article p
 {
-    font-size: 1.5em;
+    font-size: 0.8em;
 }
 
 .table {
@@ -89,8 +89,7 @@ article p
 	column-width:15rem;
 }
 
-.test2 {
-	margin-right: -125px;
+.test {
 	margin-left: 125px
 }
 

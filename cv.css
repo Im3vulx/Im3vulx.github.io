@@ -127,12 +127,17 @@ aside img
 	column-width:15rem;
 }
 
-#in {
+#inl {
 	height: 15%;
 	width: 15%;
 }
 
-.nav
+#inst {
+	height: 15%;
+	width: 15%;
+}
+
+#nav
 {
     flex: 1;
     position: relative;
@@ -143,7 +148,7 @@ aside img
     color: white;
     font-size: 0.9em;
 	height:100%;
-	margin-top:700px;
+	margin-top:650px;
 }
 
 #fleche_bulle2
@@ -161,7 +166,7 @@ aside img
 
 .test2 {
 	margin-right: -125px;
-	margin-left: 125px
+	margin-left: 175px
 }
 
 .itelios{
@@ -189,4 +194,9 @@ aside img
 
 a:hover {
 	color:blue;
+}
+
+#pi{
+	display:inline;
+	font-size: 1em;
 }
