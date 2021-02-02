@@ -1,8 +1,8 @@
 body
 {
-	background: url('fond_jaune.png');
-	font-family: 'Trebuchet MS', Arial, sans-serif;
-	color: #181818;
+    background: url('fond_jaune.png');
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
 	overflow-x: hidden; 
 }
 
@@ -53,6 +53,7 @@ nav ul
 {
     list-style-type: none;
     display: flex;
+	margin-right:50px;
 }
 
 nav li
@@ -129,17 +130,12 @@ aside img
 	column-width:15rem;
 }
 
-#inl {
+#in {
 	height: 15%;
 	width: 15%;
 }
 
-#inst {
-	height: 15%;
-	width: 15%;
-}
-
-#nav
+.nav
 {
     flex: 1;
     position: relative;
@@ -150,7 +146,7 @@ aside img
     color: white;
     font-size: 0.9em;
 	height:100%;
-	margin-top:7000px;
+	margin-top:700px;
 	margin-left:100px;
 }
 
@@ -163,13 +159,13 @@ aside img
 }
 
 .test{
-	margin-left: -125px;
-	margin-right: 125px;
+	margin-left: -150px;
+	margin-right: 60px;
 }
 
 .test2 {
 	margin-right: -125px;
-	margin-left: 175px
+	margin-left: 125px
 }
 
 .itelios{
