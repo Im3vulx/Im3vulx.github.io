@@ -2,13 +2,12 @@ body
 {
     background: url('fond_jaune.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    color: #181818;
-	overflow-x: hidden; 
+    color: #181818; 
 }
 
 #bloc_page
 {
-    width: 1300px;
+    width: 1250px;
     margin: auto;
 }
 

@@ -7,7 +7,7 @@ body
 
 #bloc_page
 {
-    width: 1300px;
+    width: 1250px;
     margin: auto;
 }
 
@@ -81,7 +81,7 @@ article
 
 article p
 {
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .table {
@@ -90,9 +90,28 @@ article p
 }
 
 .test{
-	margin-right: 125px;
+	margin-right: 150px;
+	font-size: 1em;
+	margin-left:25px;
 }
 
 a:hover {
 	color:blue;
+}
+
+.gras{
+	font-weight:bold;
+	display:inline;
+	font-size:1em;
+}
+
+.itelios{
+	font-weight:bold;
+	display:inline;
+	text-decoration: underline;
+	font-size: 0.9em;
+}
+
+p{
+	display:inline;
 }

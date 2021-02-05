@@ -7,7 +7,7 @@ body
 
 #bloc_page
 {
-    width: 1300px;
+    width: 1250px;
     margin: auto;
 }
 
@@ -100,4 +100,19 @@ a:hover {
 #53 {
 	height:15%;
 	width:15%;
+}
+
+.nav
+{
+    flex: 1;
+    position: relative;
+    background-color: #706b64;
+    box-shadow: -5px 5px 5px #1c1a19;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    font-size: 0.8em;
+	height:100%;
+	margin-top:100px;
+	margin-left:-100px;
 }
